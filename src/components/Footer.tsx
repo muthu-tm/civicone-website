@@ -22,7 +22,7 @@ export function Footer() {
       { label: 'Waitlist', id: 'waitlist' },
     ],
     resources: [
-      { label: 'Blog', href: '#' },
+      { label: 'Home', href: '#' },
       { label: 'Help Center', href: '#' },
       { label: 'Privacy Policy', href: '#' },
       { label: 'Terms of Service', href: '#' },
